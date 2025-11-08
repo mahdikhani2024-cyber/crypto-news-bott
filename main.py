@@ -1,7 +1,6 @@
 import requests
 import feedparser
-import time
-from bs4 import BeautifulSoup
+import BeautifulSoup4
 
 # ---------- تنظیمات ----------
 BOT_TOKEN = "8419410295:AAEoZYyk1iI7PTXbTnKOVRfTQbx7UtD5Whs #  "توکن_بات_اینجا
